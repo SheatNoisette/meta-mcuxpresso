@@ -7,7 +7,7 @@ BBCLASSEXTEND = "native nativesdk"
 
 # Clone from git repository
 SRC_URI = "git://github.com/nxp-mcuxpresso/rpmsg-lite.git;protocol=https;branch=master"
-SRCREV = "c95382aa688b0c995366d2dc2182b96a34c0c5a4"
+SRCREV = "678deb98522ce12a3e82b4278313189e8d30372a"
 
 PROVIDES = "virtual/rpmsglite"
 DEPENDS += "virtual/mcuxpresso"
