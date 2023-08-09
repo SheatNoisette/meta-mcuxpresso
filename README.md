@@ -1,12 +1,12 @@
 # meta-mcuxpresso
 
-# This layer is archived and won't be maintained
----
-
 This layer provides basic support for NXP MCUXpresso SDK, which is a
 comprehensive software enablement package designed to simplify and accelerate
 application development with NXP's microcontrollers based on Arm Cortex-M cores
 and derivatives.
+
+Please note that this layer is a fork of the original "meta-mcuxpresso" layer
+made by Openwide Openwide-Ingenierie.
 
 ## Dependencies
 
@@ -32,4 +32,4 @@ $ bitbake-layers add-layer meta-mcuxpresso
 
 ## License
 This layer is licensed under the MIT License - see the [LICENSE](LICENSE)
-file for details
+file for details.
